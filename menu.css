@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-size: cover;
+  font-family: monospace;
+}
+
+.nav {
+  background: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+.navbar-item {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+  font-size: 20px;
+}
+.ok {
+  height: 60px;
+}
+.nvmind {
+  text-align: center;
+  justify-content: center;
+}
